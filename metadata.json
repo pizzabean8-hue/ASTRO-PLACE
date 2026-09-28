@@ -1,0 +1,6 @@
+{
+  "name": "Astro Place",
+  "description": "A colorful 3D multiplayer-style social roleplay and life-simulation game with jobs, vehicles, parties, exploration, and custom characters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
